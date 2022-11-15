@@ -1,0 +1,22 @@
+CRITICAL - 2022-10-14 07:38:23 --> Wrong number of segments
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(240): Firebase\JWT\JWT::decode(NULL, Object(Firebase\JWT\Key))
+#1 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(268): App\Controllers\BaseController->commonDecodeToken()
+#2 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(1116): App\Controllers\BaseController->decodeToken()
+#3 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(1207): App\Controllers\User->test()
+#4 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->newone()
+#5 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-10-14 07:51:06 --> Class 'App\Controllers\PHPMailer' not found
+#0 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->newone()
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-10-14 07:58:42 --> Class 'PHPMailer' not found
+#0 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->newone()
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#4 {main}

@@ -1,0 +1,1437 @@
+[11-Mar-2022 05:11:10 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:11:10 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:11:12 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:11:12 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:12:07 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:12:07 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:12:25 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:12:25 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:20:09 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:20:09 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:26:58 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:26:58 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:31:07 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:31:07 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:31:29 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:31:29 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:39:39 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:39:39 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:40:25 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:40:25 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:40:48 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:40:48 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:41:35 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:41:35 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:48:09 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:48:09 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:48:29 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:48:29 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:49:20 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:49:20 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:50:24 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:50:24 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:51:06 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:51:06 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:53:07 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:53:07 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:53:45 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:53:45 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:54:44 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:54:44 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:56:07 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 05:56:07 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:01:46 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:01:46 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:01:48 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:01:48 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:02:10 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:02:10 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:02:12 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:02:12 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:02:17 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:02:17 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:02:18 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:02:18 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:02:45 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:02:45 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:08:29 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:08:29 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:09:24 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:09:24 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:13:54 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:13:54 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:13:56 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:13:56 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:14:02 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:14:02 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:14:57 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:14:57 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:15:11 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[11-Mar-2022 06:15:11 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 02:52:36 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 02:52:36 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:11:00 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:11:00 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:12:40 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:12:40 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:13:43 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:13:43 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:16:51 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:16:51 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:17:03 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:17:03 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:20:18 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:20:18 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:25:43 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:25:43 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:27:06 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:27:06 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:32:58 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:32:58 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:41:20 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:41:20 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:47:06 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:47:06 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:47:43 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 03:47:43 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:15:27 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:15:27 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:15:59 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:15:59 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:45:25 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(UnexpectedValueException))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:45:25 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:46:19 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(UnexpectedValueException))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:46:19 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:46:21 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(UnexpectedValueException))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:46:21 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:47:04 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(UnexpectedValueException))
+#3 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[14-Mar-2022 05:47:04 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:47:14 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:47:14 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:47:50 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:47:50 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:48:29 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:48:29 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:48:42 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:48:42 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:49:17 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:49:17 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:49:36 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:49:36 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:49:47 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:49:47 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:50:37 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:50:37 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:51:00 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:51:00 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:51:10 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:51:10 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:51:25 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:51:25 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:51:57 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:51:57 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:51:59 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:51:59 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:52:09 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:52:09 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:52:19 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:52:19 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:52:34 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:52:34 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:52:36 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:52:36 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:52:40 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:52:40 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:59:39 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 404 No...', true, 404)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 06:59:39 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:01:34 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 404 No...', true, 404)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:01:34 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:01:49 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 404 No...', true, 404)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:01:49 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:02:09 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 404 No...', true, 404)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:02:09 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:02:29 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 404 No...', true, 404)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:02:29 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:02:36 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 404 No...', true, 404)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:02:36 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:05:23 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(TypeError))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:05:23 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:30:37 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:30:37 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:31:04 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:31:04 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:42:35 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 07:42:35 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 23:25:37 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[21-Mar-2022 23:25:37 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[22-Mar-2022 01:05:06 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 404 No...', true, 404)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[22-Mar-2022 01:05:06 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[22-Mar-2022 01:16:12 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[22-Mar-2022 01:16:12 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[22-Mar-2022 01:16:35 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[22-Mar-2022 01:16:35 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[24-Mar-2022 02:17:10 America/Chicago] PHP Fatal error:  Cannot use App\Models\BusinessStaffAccountModel as BusinessStaffAccountModel because the name is already in use in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 32
+[24-Mar-2022 02:17:10 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[24-Mar-2022 02:17:53 America/Chicago] PHP Fatal error:  Cannot use App\Models\BusinessStaffAccountModel as BusinessStaffAccountModel because the name is already in use in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 32
+[24-Mar-2022 02:17:53 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[24-Mar-2022 02:18:44 America/Chicago] PHP Fatal error:  Cannot use App\Models\BusinessStaffAccountModel as BusinessStaffAccountModel because the name is already in use in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 32
+[24-Mar-2022 02:18:44 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[24-Mar-2022 02:18:56 America/Chicago] PHP Fatal error:  Cannot use App\Models\BusinessStaffAccountModel as BusinessStaffAccountModel because the name is already in use in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 32
+[24-Mar-2022 02:18:56 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[24-Mar-2022 02:19:25 America/Chicago] PHP Fatal error:  Cannot use App\Models\BusinessStaffAccountModel as BusinessStaffAccountModel because the name is already in use in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 32
+[24-Mar-2022 02:19:25 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/index.php:1) in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php(163): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#4 {main}
+  thrown in /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 112
+[24-Mar-2022 02:23:55 America/Chicago] PHP Fatal error:  Cannot use App\Models\BusinessStaffAccountModel as BusinessStaffAccountModel because the name is already in use in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 32
+[13-Apr-2022 23:44:59 America/Chicago] PHP Fatal error:  Cannot declare class App\Models\SocialLinksModel, because the name is already in use in /home/amandeep/public_html/maara/app/Models/PlateformsModel.php on line 0
+[15-Apr-2022 01:29:31 America/Chicago] PHP Warning:  Uncaught ErrorException: require(./vendor/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/app/Controllers/BaseController.php:401
+Stack trace:
+#0 /home/amandeep/public_html/maara/app/Controllers/BaseController.php(401): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./vendo...', '/home/amandeep/...', 401, Array)
+#1 /home/amandeep/public_html/maara/app/Controllers/BaseController.php(401): require()
+#2 /home/amandeep/public_html/maara/app/Controllers/User.php(307): App\Controllers\BaseController->sendMail('AJAY@gmail.com', 'Forgot Password', 'Here is the cod...', 0)
+#3 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->forgotPassword()
+#4 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Code in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 401
+[15-Apr-2022 01:29:31 America/Chicago] PHP Fatal error:  App\Controllers\BaseController::sendMail(): Failed opening required './vendor/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 401
+[15-Apr-2022 01:29:55 America/Chicago] PHP Warning:  Uncaught ErrorException: require(./vendor/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/app/Controllers/BaseController.php:401
+Stack trace:
+#0 /home/amandeep/public_html/maara/app/Controllers/BaseController.php(401): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./vendo...', '/home/amandeep/...', 401, Array)
+#1 /home/amandeep/public_html/maara/app/Controllers/BaseController.php(401): require()
+#2 /home/amandeep/public_html/maara/app/Controllers/User.php(307): App\Controllers\BaseController->sendMail('AJAY@gmail.com', 'Forgot Password', 'Here is the cod...', 0)
+#3 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->forgotPassword()
+#4 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Code in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 401
+[15-Apr-2022 01:29:55 America/Chicago] PHP Fatal error:  App\Controllers\BaseController::sendMail(): Failed opening required './vendor/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 401
+[15-Apr-2022 01:30:25 America/Chicago] PHP Warning:  Uncaught ErrorException: require(./vendor/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/app/Controllers/BaseController.php:401
+Stack trace:
+#0 /home/amandeep/public_html/maara/app/Controllers/BaseController.php(401): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./vendo...', '/home/amandeep/...', 401, Array)
+#1 /home/amandeep/public_html/maara/app/Controllers/BaseController.php(401): require()
+#2 /home/amandeep/public_html/maara/app/Controllers/User.php(307): App\Controllers\BaseController->sendMail('AJAY@gmail.com', 'Forgot Password', 'Here is the cod...', 0)
+#3 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->forgotPassword()
+#4 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/Code in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 401
+[15-Apr-2022 01:30:25 America/Chicago] PHP Fatal error:  App\Controllers\BaseController::sendMail(): Failed opening required './vendor/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 401
+[15-Apr-2022 01:48:45 America/Chicago] PHP Warning:  Uncaught ErrorException: require(./vendor/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/app/Controllers/BaseController.php:401
+Stack trace:
+#0 /home/amandeep/public_html/maara/app/Controllers/BaseController.php(401): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./vendo...', '/home/amandeep/...', 401, Array)
+#1 /home/amandeep/public_html/maara/app/Controllers/BaseController.php(401): require()
+#2 /home/amandeep/public_html/maara/app/Controllers/User.php(307): App\Controllers\BaseController->sendMail('amandeep@gmail....', 'Forgot Password', 'Here is the cod...', 0)
+#3 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->forgotPassword()
+#4 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/ in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 401
+[15-Apr-2022 01:48:45 America/Chicago] PHP Fatal error:  App\Controllers\BaseController::sendMail(): Failed opening required './vendor/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 401
+[15-Apr-2022 02:13:41 America/Chicago] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\Exception as Exception because the name is already in use in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 62
+[15-Apr-2022 02:14:40 America/Chicago] PHP Warning:  Uncaught ErrorException: require(./vendor/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/app/Controllers/BaseController.php:405
+Stack trace:
+#0 /home/amandeep/public_html/maara/app/Controllers/BaseController.php(405): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./vendo...', '/home/amandeep/...', 405, Array)
+#1 /home/amandeep/public_html/maara/app/Controllers/BaseController.php(405): require()
+#2 /home/amandeep/public_html/maara/app/Controllers/User.php(307): App\Controllers\BaseController->sendMail('amandeep@gmail....', 'Forgot Password', 'Here is the cod...', 0)
+#3 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->forgotPassword()
+#4 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 /home/amandeep/public_html/maara/vendor/codeigniter4/framework/system/ in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 405
+[15-Apr-2022 02:14:40 America/Chicago] PHP Fatal error:  App\Controllers\BaseController::sendMail(): Failed opening required './vendor/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/app/Controllers/BaseController.php on line 405
+[27-Apr-2022 00:22:13 America/Chicago] PHP Fatal error:  Illegal offset type in /home/amandeep/public_html/maara/app/Controllers/User.php on line 623
+[27-Apr-2022 00:22:35 America/Chicago] PHP Fatal error:  Illegal offset type in /home/amandeep/public_html/maara/app/Controllers/User.php on line 623
+[27-Apr-2022 00:23:21 America/Chicago] PHP Fatal error:  Illegal offset type in /home/amandeep/public_html/maara/app/Controllers/User.php on line 622
+[08-Jun-2022 23:18:29 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/amandeep/public_html/maara/app/Controllers/Landing.php on line 132
+[08-Jun-2022 23:18:29 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/amandeep/public_html/maara/app/Controllers/Landing.php on line 132
+[08-Jun-2022 23:19:18 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/amandeep/public_html/maara/app/Controllers/Landing.php on line 132
+[08-Jun-2022 23:20:25 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/amandeep/public_html/maara/app/Controllers/Landing.php on line 140
+[08-Jun-2022 23:27:05 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/amandeep/public_html/maara/app/Controllers/Landing.php on line 148
+[16-Jun-2022 12:45:45 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/amandeep/public_html/maara/app/Config/Services.php on line 106
+[16-Jun-2022 12:46:32 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/amandeep/public_html/maara/app/Config/Services.php on line 106
+[20-Jun-2022 06:47:44 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Landing::checkout() in /home/amandeep/public_html/maara/app/Controllers/Landing.php on line 349
+[21-Jun-2022 01:30:13 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Landing::checkout() in /home/amandeep/public_html/maara/app/Controllers/Landing.php on line 446
+[21-Jun-2022 02:55:08 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Landing::addToCart() in /home/amandeep/public_html/maara/app/Controllers/Landing.php on line 446
+[21-Jun-2022 04:15:48 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Landing::addToCart() in /home/amandeep/public_html/maara/app/Controllers/Landing.php on line 446
+[28-Jun-2022 00:55:47 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/amandeep/public_html/maara/app/Controllers/Home.php on line 1315
+[28-Jun-2022 00:55:47 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:55:47 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:55:47 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:55:47 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:56:18 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/amandeep/public_html/maara/app/Controllers/Home.php on line 1315
+[28-Jun-2022 00:56:18 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:56:18 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:56:18 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:56:18 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:56:34 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/amandeep/public_html/maara/app/Controllers/Home.php on line 1315
+[28-Jun-2022 00:56:34 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:56:34 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:56:34 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:56:34 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:57:08 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/amandeep/public_html/maara/app/Controllers/Home.php on line 1315
+[28-Jun-2022 00:57:08 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:57:08 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:57:08 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:57:08 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:57:54 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/amandeep/public_html/maara/app/Controllers/Home.php on line 1315
+[28-Jun-2022 00:57:54 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:57:54 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:57:54 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:57:54 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:58:13 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/amandeep/public_html/maara/app/Controllers/Home.php on line 1315
+[28-Jun-2022 00:58:13 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:58:13 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:58:13 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[28-Jun-2022 00:58:13 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[30-Jun-2022 13:31:45 UTC] PHP Warning:  POST Content-Length of 10043999 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Sep-2022 01:09:24 America/Chicago] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/zjtoavd5rlc8/maaracard.com/app/Filters/LandingAuthenticationFilter.php on line 3
+[14-Oct-2022 07:41:27 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php on line 1207
+[14-Oct-2022 07:44:02 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php on line 1207
+[14-Oct-2022 07:44:05 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php on line 1207
+[14-Oct-2022 07:45:32 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php on line 1208
+[14-Oct-2022 07:46:52 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php on line 1208
+[14-Oct-2022 07:48:23 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php on line 1208
+[14-Oct-2022 07:49:31 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php on line 1208
+[01-Nov-2022 23:22:51 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Landing::customCard() in /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php on line 1000

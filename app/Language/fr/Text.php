@@ -1,0 +1,72 @@
+<?php
+return [
+    'unauthorize' => 'Utilisateur non autorisé',
+    'suspended' => 'Utilisateur suspendu',
+    'requiredEmailAndPassword' => 'Courriel/mot de passe requis',
+    'emailInUse' => "L'email est déjà enregistré",
+    'registered' => "L'utilisateur a été enregistré avec succès ",
+    'errorRegister' => " Échec de la création de l'utilisateur",
+    'accountsuspended' => 'Votre compte a été suspendu',
+    'login' => 'Connexion réussie',
+    'loginPasswordError' => "La connexion a échoué ! Le mot de passe n'est pas valide.",
+    'loginEmailError' => 'Échec de la connexion ! L’Email est invalide.',
+    'profileUpdated' => 'Le profil a été mis à jour avec succès',
+    'wrong' => "Quelque chose s'est mal passé",
+    'uploadError' => 'Erreur de téléchargement de fichier',
+    
+    'logout' => "Déconnexion réussie de l'utilisateur",
+    'forgotcode' => 'Veuillez vérifier votre email, nous avons envoyé un code de réinitialisation du mot de 
+passe.',
+    'forgotError' => "Cet email n'est pas associé au compte, veuillez réessayer avec l'email valide.",
+    'resetSuccess' => 'Votre mot de passe a été réinitialisé avec succès, veuillez-vous connecter avec votre 
+nouveau mot de passe.',
+    'otpVerify' => "Vérification de l'OTP réussie",
+    'invalidOTP' => 'OTP invalide',
+    'userNotFound' => 'Utilisateur non trouvé',
+    'passwordRequired' => 'Ancien et nouveau mot de passe requis',
+    'passwordUpdateError' => 'Mot de passe non mis à jour',
+    'passwordUpdateSuccess' => 'Mot de passe mis à jour avec succès',
+    'oldPasswordError' => "L'ancien mot de passe est incorrect",
+    'profileChangeStatus' => 'Le statut du profil a été modifié avec succès',
+    'socialNetworkAdded' => 'Plateforme ajoutée avec succès',
+    
+    'alreadySN' => 'Vous avez déjà ajouté cette plateforme',
+    'notExistSN' => "Cette plate-forme n'existe pas",
+    'updatedSN' => 'La plateforme a été mise à jour avec succès',
+    'deleteSN' => 'Plateforme supprimée avec succès',
+    'dataFound' => 'Données trouvées',
+    'dataNotFound' => 'Données non trouvées',
+    'notExistUT' => "Ce type d'utilisateur n'existe pas",
+    'setDL' => 'Lien direct de profil défini avec succès',
+    'unsetDL' => 'Lien direct de profil désactivé avec succès ',
+    'addedT' => 'Thème ajouté avec succès',
+    'updatedT' => 'Thème mis à jour avec succès',
+    'statusChange' => 'Changement de statut réussi',
+    'profileCreated' => 'Création du profil avec succès',
+    
+    'createdBP' => "Profil d'entreprise mis à jour avec succès",
+    'updateBP' => 'Profil du personnel créé avec succès',
+    'createdBPS' => 'Profil du personnel mis à jour avec succès',
+    'updatedBPS' => 'Profil du personnel supprimé avec succès',
+    'deletedBPS' => 'Activation du dispositif avec succès',
+    'deviceActivate' => 'Accessoire activé avec succès',
+    'deveiceInUse' => 'Cet accessoire est déjà utilisé',
+    'deviceTypeNotMatch' => 'Le type d’accessoire ne correspond pas',
+    'deviceNotAssoc' => "Cet accessoire n'est pas associé",
+    'deviceAssgined' => 'L’ accessoire a été attribué avec succès',
+    'deviceNameChanged' => 'Le nom d’accessoire a été modifié avec succès',
+    'deviceUnlink' => 'Accessoire délié avec succès',
+    'deviceRemove' => 'Accessoire retiré avec succès',
+    
+    'connectionList' => "Ajout d'un utilisateur dans la liste des connexions avec succès ",
+    'deviceNotExist' => "L’accessoire n'existe pas",
+    'typeNotExist' => "Le type n'existe pas",
+    'orderUpdate' => 'La commande a été mise à jour avec succès',
+    'subscriptionUpgrade' => 'Abonnement mis à jour avec succès ',
+    
+    'language' => 'Langue mise à jour avec succès',
+    'deleteAccount' => 'Compte supprimé avec succès',
+    'sameProfile' => 'Vous ne pouvez pas vous connecter avec votre propre profil'
+];
+
+?>

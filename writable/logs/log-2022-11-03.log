@@ -1,0 +1,352 @@
+CRITICAL - 2022-11-03 00:52:17 --> Invalid argument supplied for foreach()
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/payment.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/zjtoavd5r...', 72, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('payment', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(663): view('payment', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(345): App\Controllers\BaseController->loadLandingViews('payment', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->payment()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 00:52:37 --> Invalid argument supplied for foreach()
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/payment.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/zjtoavd5r...', 72, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('payment', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(663): view('payment', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(345): App\Controllers\BaseController->loadLandingViews('payment', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->payment()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-03 01:02:23 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `i`.`orderID` = '63'
+GROUP BY `m`.`productID`' at line 6
+CRITICAL - 2022-11-03 01:02:23 --> Call to a member function getResultArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(336): Config\Services::cartListLanding('63')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->payment()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-11-03 01:03:17 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `i`.`orderID` = '63'
+GROUP BY `m`.`productID`' at line 6
+CRITICAL - 2022-11-03 01:03:17 --> Call to a member function getResultArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(336): Config\Services::cartListLanding('63')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->payment()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-11-03 01:03:51 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `i`.`orderID` = '63'
+GROUP BY `m`.`productID`' at line 6
+CRITICAL - 2022-11-03 01:03:51 --> Call to a member function getResultArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(336): Config\Services::cartListLanding('63')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->payment()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-11-03 01:04:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `i`.`orderID` = '63'
+GROUP BY `m`.`productID`' at line 6
+CRITICAL - 2022-11-03 01:04:07 --> Call to a member function getResultArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(336): Config\Services::cartListLanding('63')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->payment()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-03 02:04:18 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(552): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 552, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->changeCartQty()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-03 02:04:19 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(552): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 552, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->changeCartQty()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-03 02:04:19 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(552): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 552, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->changeCartQty()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-03 02:04:20 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(552): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 552, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->changeCartQty()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-03 02:04:22 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(552): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 552, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->changeCartQty()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-03 02:04:22 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(51): App\Controllers\BaseController->loadLandingViews('auth/login', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->login()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 02:24:55 --> Call to a member function getWhere() on null
+#0 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->checkout()
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-11-03 02:35:11 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(959): App\Controllers\BaseController->loadLandingViews('terms', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->getPages()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 02:35:16 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(959): App\Controllers\BaseController->loadLandingViews('terms', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->getPages()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 02:35:29 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(201): App\Controllers\BaseController->loadLandingViews('services', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->services()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 02:36:12 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(214): App\Controllers\BaseController->loadLandingViews('help', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->help()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 02:38:01 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 02:38:21 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 02:40:21 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 02:58:08 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 04:18:56 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 04:41:31 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 05:16:29 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(560): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 560, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->changeCartQty()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-03 05:16:30 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(560): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 560, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->changeCartQty()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-03 05:16:30 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(560): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 560, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->changeCartQty()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-03 05:16:31 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(560): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 560, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->changeCartQty()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-03 05:16:31 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(560): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 560, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->changeCartQty()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-03 05:54:12 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 05:54:29 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 05:55:06 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 05:55:13 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 05:55:22 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 05:55:24 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/includes/header.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 185, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('includes/header', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(662): view('includes/header', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(25): App\Controllers\BaseController->loadLandingViews('index', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-11-03 05:55:35 --> A non-numeric value encountered
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Views/cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/zjtoavd5r...', 44, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/zjtoavd5r...')
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('cart', Array, true)
+#4 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(663): view('cart', Array)
+#5 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(264): App\Controllers\BaseController->loadLandingViews('cart', Array)
+#6 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->cartList()
+#7 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#10 {main}

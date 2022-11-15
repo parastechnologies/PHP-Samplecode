@@ -1,0 +1,18 @@
+CRITICAL - 2022-10-07 08:39:24 --> array_column() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_column() ...', '/home/zjtoavd5r...', 719, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(719): array_column(NULL, 'subTotal')
+#2 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(821): App\Controllers\Landing->saveToCart('46', 7, 7, 0, '')
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->paynow()
+#4 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#5 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-07 08:43:08 --> array_column() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_column() ...', '/home/zjtoavd5r...', 719, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(719): array_column(NULL, 'subTotal')
+#2 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(821): App\Controllers\Landing->saveToCart('46', 9, 9, 0, '')
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->paynow()
+#4 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#5 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#7 {main}

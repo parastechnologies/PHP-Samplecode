@@ -1,0 +1,16 @@
+ERROR - 2022-10-17 07:02:30 --> MySQL server has gone away
+CRITICAL - 2022-10-17 07:02:30 --> Call to a member function getRowArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(354): App\Controllers\BaseController->language_messages('28', 'wrong')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->forgotPassword()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-10-17 07:05:16 --> MySQL server has gone away
+CRITICAL - 2022-10-17 07:05:16 --> Call to a member function getRowArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(354): App\Controllers\BaseController->language_messages('28', 'wrong')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->forgotPassword()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}

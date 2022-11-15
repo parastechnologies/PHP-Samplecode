@@ -1,0 +1,2 @@
+ERROR - 2022-06-17 00:14:50 --> Incorrect table definition; there can be only one auto column and it must be defined as a key
+ERROR - 2022-06-17 00:41:47 --> Table 'amandeep_maaraDB.tbl_py_states' doesn't exist

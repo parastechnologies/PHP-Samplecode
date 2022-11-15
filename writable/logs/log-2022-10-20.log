@@ -1,0 +1,7 @@
+CRITICAL - 2022-10-20 23:47:15 --> Use of undefined constant UPLOAD_DIR - assumed 'UPLOAD_DIR' (this will throw an Error in a future version of PHP)
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(1001): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home/zjtoavd5r...', 1001, Array)
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->testets()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,5 @@
+ERROR - 2022-04-13 07:07:36 --> Unknown column 'base_url' in 'field list'
+ERROR - 2022-04-13 07:13:26 --> Unknown column 'base_url' in 'field list'
+CRITICAL - 2022-04-13 23:44:59 --> Cannot declare class App\Models\SocialLinksModel, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

@@ -1,0 +1,9 @@
+CRITICAL - 2022-09-16 08:15:26 --> Wrong number of segments
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(236): Firebase\JWT\JWT::decode(NULL, Object(Firebase\JWT\Key))
+#1 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(244): App\Controllers\BaseController->commonDecodeToken()
+#2 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Home.php(1145): App\Controllers\BaseController->decodeToken()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->themes()
+#4 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#7 {main}

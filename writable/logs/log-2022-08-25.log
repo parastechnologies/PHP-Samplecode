@@ -1,0 +1,19 @@
+ERROR - 2022-08-25 04:12:53 --> Cannot add foreign key constraint
+ERROR - 2022-08-25 04:24:36 --> MySQL server has gone away
+ERROR - 2022-08-25 04:24:36 --> MySQL server has gone away
+ERROR - 2022-08-25 04:31:15 --> Table 'maaraCardDB.tbl_productColorImages' doesn't exist
+CRITICAL - 2022-08-25 04:31:15 --> Call to a member function getResultArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(16): Config\Services::getHomeRecentProducts()
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-08-25 04:43:24 --> Table 'maaraCardDB.tbl_productColorImages' doesn't exist
+CRITICAL - 2022-08-25 04:43:24 --> Call to a member function getResultArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/Landing.php(16): Config\Services::getHomeRecentProducts()
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Landing->index()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}

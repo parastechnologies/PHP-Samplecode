@@ -1,0 +1,499 @@
+[28-Jun-2022 07:19:55 UTC] PHP Warning:  require_once(./vendor/Behat-Transliterator/Transliterator.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/hj/index.php on line 4
+[28-Jun-2022 07:19:55 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/Behat-Transliterator/Transliterator.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/hj/index.php on line 4
+[07-Jul-2022 09:12:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 20
+[07-Jul-2022 09:13:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 21
+[07-Jul-2022 09:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 21
+[07-Jul-2022 09:25:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/amandeep/public_html/maara/home/index.php:18
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(26): getData('tbl_users', 'id', 61)
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 18
+[07-Jul-2022 09:26:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:10
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(17): getData('tbl_users', 'id', 61)
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 10
+[07-Jul-2022 09:26:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:10
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(17): getData('tbl_users', 'id', 61)
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 10
+[07-Jul-2022 09:26:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:10
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(17): getData('tbl_users', 'id', 61)
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 10
+[07-Jul-2022 09:26:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:10
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(17): getData('tbl_users', 'id', 61)
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 10
+[07-Jul-2022 09:26:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:10
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(17): getData('tbl_users', 'id', 61)
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 10
+[07-Jul-2022 09:27:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:10
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(17): getData('tbl_users', 'id', 61)
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 10
+[07-Jul-2022 09:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:12
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(19): getData('tbl_users', 'id', 61)
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 12
+[07-Jul-2022 09:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:12
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(19): getData('tbl_users', 'id', 61)
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 12
+[07-Jul-2022 09:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:12
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(19): getData('tbl_users', 'id', 61)
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 12
+[07-Jul-2022 09:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:12
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(19): getData('tbl_users', 'id', 61)
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 12
+[07-Jul-2022 09:30:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/amandeep/public_html/maara/home/index.php:11
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/index.php(18): getData('tbl_users', 'id', 61, 'public')
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/index.php on line 11
+[07-Jul-2022 09:41:32 UTC] PHP Warning:  require_once(../vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:41:32 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:41:34 UTC] PHP Warning:  require_once(../vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:41:34 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:41:45 UTC] PHP Warning:  require_once(../vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:41:45 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:41:46 UTC] PHP Warning:  require_once(../vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:41:46 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:41:56 UTC] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:41:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:41:58 UTC] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:41:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 09:42:49 UTC] PHP Warning:  include(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:42:49 UTC] PHP Warning:  include(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:42:49 UTC] PHP Warning:  include(): Failed opening '/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:42:50 UTC] PHP Warning:  include(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:42:50 UTC] PHP Warning:  include(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:42:50 UTC] PHP Warning:  include(): Failed opening '/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:10 UTC] PHP Warning:  include(../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:10 UTC] PHP Warning:  include(../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:10 UTC] PHP Warning:  include(): Failed opening '../../../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:21 UTC] PHP Warning:  include(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:21 UTC] PHP Warning:  include(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:21 UTC] PHP Warning:  include(): Failed opening '/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:22 UTC] PHP Warning:  include(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:22 UTC] PHP Warning:  include(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:22 UTC] PHP Warning:  include(): Failed opening '/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:35 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:35 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:35 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:43 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:43 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 09:43:43 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 3
+[07-Jul-2022 10:13:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function addName() on null in /home/amandeep/public_html/maara/home/vcard/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 10:13:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function addName() on null in /home/amandeep/public_html/maara/home/vcard/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 33
+[07-Jul-2022 10:26:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:26:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:26:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:26:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:27:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:27:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:27:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:28:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:29:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:30:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:30:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:31:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:31:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:31:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:32:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:33:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:33:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 655
+[07-Jul-2022 10:42:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[07-Jul-2022 10:42:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[07-Jul-2022 10:42:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[07-Jul-2022 10:42:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[07-Jul-2022 10:42:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[07-Jul-2022 10:42:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[07-Jul-2022 10:42:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[07-Jul-2022 10:42:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[07-Jul-2022 10:42:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[07-Jul-2022 10:42:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[07-Jul-2022 10:42:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[07-Jul-2022 10:42:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:17) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:32:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:9) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:32:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:9) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:32:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:9) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:32:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:9) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:33:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:10) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:33:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:10) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:33:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:10) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:33:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:10) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:33:48 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 12
+[12-Jul-2022 12:33:59 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 12
+[12-Jul-2022 12:34:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Key' not found in /home/amandeep/public_html/maara/home/vcard/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 13
+[12-Jul-2022 12:36:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Key' not found in /home/amandeep/public_html/maara/home/vcard/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 14
+[12-Jul-2022 12:36:35 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/amandeep/public_html/maara/home/vcard/index.php on line 13
+[12-Jul-2022 12:37:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Key' not found in /home/amandeep/public_html/maara/home/vcard/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 14
+[12-Jul-2022 12:37:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Key' not found in /home/amandeep/public_html/maara/home/vcard/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 14
+[12-Jul-2022 12:37:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Key' not found in /home/amandeep/public_html/maara/home/vcard/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 14
+[12-Jul-2022 12:38:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Key' not found in /home/amandeep/public_html/maara/home/vcard/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 16
+[12-Jul-2022 12:40:07 UTC] PHP Warning:  require_once(../vendor/firebase/php-jwt/src/JWT.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 8
+[12-Jul-2022 12:40:07 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/firebase/php-jwt/src/JWT.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 8
+[12-Jul-2022 12:40:15 UTC] PHP Warning:  require_once(../vendor/firebase/php-jwt/src/JWT.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 8
+[12-Jul-2022 12:40:15 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/firebase/php-jwt/src/JWT.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 8
+[12-Jul-2022 12:40:25 UTC] PHP Warning:  require_once(../vendor/firebase/php-jwt/src/JWT.php): failed to open stream: No such file or directory in /home/amandeep/public_html/maara/home/vcard/index.php on line 8
+[12-Jul-2022 12:40:25 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/firebase/php-jwt/src/JWT.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/amandeep/public_html/maara/home/vcard/index.php on line 8
+[12-Jul-2022 12:40:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:18) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:40:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:18) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:40:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:18) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:40:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:18) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:40:46 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 17
+[12-Jul-2022 12:41:03 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 16
+[12-Jul-2022 12:41:28 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 18
+[12-Jul-2022 12:41:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:41:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:41:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:41:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:43:06 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/amandeep/public_html/maara/home/vcard/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 20
+[12-Jul-2022 12:43:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:43:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:43:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 12:43:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:20) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[12-Jul-2022 13:30:44 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/amandeep/public_html/maara/home/vcard/index.php:20
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(51): getData('tbl_users', 'id', '1', 'public')
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 20
+[12-Jul-2022 13:31:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/amandeep/public_html/maara/home/vcard/index.php:25
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(51): getData('tbl_users', 'id', '1', 'public')
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 25
+[12-Jul-2022 13:31:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/amandeep/public_html/maara/home/vcard/index.php:26
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(52): getData('tbl_users', 'id', '1', 'public')
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 26
+[12-Jul-2022 13:31:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/amandeep/public_html/maara/home/vcard/index.php:26
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(52): getData('tbl_users', 'id', '1', 'public')
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 26
+[13-Jul-2022 04:43:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:32) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 04:43:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:32) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 04:43:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:32) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 04:43:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:32) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 04:43:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:32) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 04:43:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:32) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 04:43:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:32) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 04:43:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:32) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 04:44:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function addAnalytics(), 0 passed in /home/amandeep/public_html/maara/home/vcard/index.php on line 53 and exactly 3 expected in /home/amandeep/public_html/maara/home/vcard/index.php:30
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(53): addAnalytics()
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 30
+[13-Jul-2022 04:44:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:33) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 04:44:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:33) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 04:44:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:33) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 04:44:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:33) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:04:48 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:43
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(57): addAnalytics()
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 43
+[13-Jul-2022 05:05:07 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:43
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(57): addAnalytics()
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 43
+[13-Jul-2022 05:05:50 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:43
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(59): addAnalytics()
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 43
+[13-Jul-2022 05:06:23 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:44
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(77): addAnalytics()
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 44
+[13-Jul-2022 05:06:26 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:44
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(77): addAnalytics()
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 44
+[13-Jul-2022 05:07:10 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:44
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(75): addAnalytics()
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 44
+[13-Jul-2022 05:07:27 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:44
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(75): addAnalytics()
+#1 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 44
+[13-Jul-2022 05:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:20:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:20:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:20:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:20:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:35) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:21:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:22:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:22:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:22:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:22:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:23:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:23:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:23:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:23:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:36) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:23:38 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:46
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(97): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 46
+[13-Jul-2022 05:23:50 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:47
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(98): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 47
+[13-Jul-2022 05:24:03 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/amandeep/public_html/maara/home/vcard/index.php:46
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(98): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 46
+[13-Jul-2022 05:24:25 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:24:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:53
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(97): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 53
+[13-Jul-2022 05:24:42 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 51
+[13-Jul-2022 05:24:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:54
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(98): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 54
+[13-Jul-2022 05:24:51 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 51
+[13-Jul-2022 05:24:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:54
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(98): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 54
+[13-Jul-2022 05:24:56 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:24:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:53
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(97): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 53
+[13-Jul-2022 05:25:23 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 52
+[13-Jul-2022 05:25:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:55
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(99): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 55
+[13-Jul-2022 05:26:00 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:26:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:54
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(98): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 54
+[13-Jul-2022 05:27:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:54
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(98): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 54
+[13-Jul-2022 05:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/amandeep/public_html/maara/home/vcard/index.php:50
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(100): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:50:35 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 51
+[13-Jul-2022 05:50:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:56
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(100): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 56
+[13-Jul-2022 05:50:57 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 52
+[13-Jul-2022 05:50:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:57
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(101): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 57
+[13-Jul-2022 05:51:10 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 51
+[13-Jul-2022 05:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:57
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(101): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 57
+[13-Jul-2022 05:51:24 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:57
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(101): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 57
+[13-Jul-2022 05:51:51 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:51:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:56
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(100): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 56
+[13-Jul-2022 05:52:05 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:52:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:56
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(102): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 56
+[13-Jul-2022 05:52:20 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/amandeep/public_html/maara/home/vcard/index.php:54
+Stack trace:
+#0 /home/amandeep/public_html/maara/home/vcard/index.php(29): addAnalytics()
+#1 /home/amandeep/public_html/maara/home/vcard/index.php(100): getData('tbl_businessAcc...', 'BID', '40', 'business')
+#2 {main}
+  thrown in /home/amandeep/public_html/maara/home/vcard/index.php on line 54
+[13-Jul-2022 05:52:47 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:52:47 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 54
+[13-Jul-2022 05:52:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:55) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:52:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:55) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:52:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:55) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:52:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:55) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:52:47 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:52:47 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 54
+[13-Jul-2022 05:53:39 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 52
+[13-Jul-2022 05:53:39 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 56
+[13-Jul-2022 05:53:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:51) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:53:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:51) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:53:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:51) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:53:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:51) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:53:39 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 52
+[13-Jul-2022 05:53:39 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 56
+[13-Jul-2022 05:54:23 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:54:23 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 54
+[13-Jul-2022 05:54:23 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 50
+[13-Jul-2022 05:54:23 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 54
+[13-Jul-2022 05:54:55 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 51
+[13-Jul-2022 05:54:55 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 55
+[13-Jul-2022 05:54:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:28) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:54:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:28) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:54:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:28) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:54:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:28) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:54:55 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 51
+[13-Jul-2022 05:54:55 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 55
+[13-Jul-2022 05:56:07 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 51
+[13-Jul-2022 05:56:07 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 55
+[13-Jul-2022 05:56:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:28) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:56:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:28) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:56:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:28) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:56:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:28) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:57:14 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/amandeep/public_html/maara/home/vcard/index.php on line 54
+[13-Jul-2022 05:57:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:51) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:57:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:51) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:57:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:51) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:57:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:51) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:59:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:56) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:59:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:56) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:59:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:56) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:59:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:56) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:59:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:56) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:59:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:56) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:59:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:56) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 05:59:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:56) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 06:00:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:57) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 06:00:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:57) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 06:00:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:57) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 06:00:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:57) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 06:01:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:57) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 06:01:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:57) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 06:01:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:57) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619
+[13-Jul-2022 06:01:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/maara/home/vcard/index.php:57) in /home/amandeep/public_html/maara/vendor/jeroendesloovere/vcard/src/VCard.php on line 619

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.158" height="33.539" viewBox="0 0 37.158 33.539">
+  <g id="cart_icon" transform="translate(-1228.61 -7)">
+    <g id="Icon_feather-shopping-cart" data-name="Icon feather-shopping-cart" transform="translate(1229.11 21.929)">
+      <path id="Path_41338" data-name="Path 41338" d="M13.673,30.837A.837.837,0,1,1,12.837,30,.837.837,0,0,1,13.673,30.837Z" transform="translate(-6.143 -13.563)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_41339" data-name="Path 41339" d="M30.173,30.837A.837.837,0,1,1,29.337,30,.837.837,0,0,1,30.173,30.837Z" transform="translate(-13.439 -13.563)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_41340" data-name="Path 41340" d="M1.5,1.5H4.847L7.089,13.185a1.691,1.691,0,0,0,1.673,1.4H16.9a1.691,1.691,0,0,0,1.673-1.4l1.339-7.322H5.684" transform="translate(-1.5 -1.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <circle id="Ellipse_1098" data-name="Ellipse 1098" cx="9" cy="9" r="9" transform="translate(1247.768 7)"/>
+    <text id="_1" data-name="1" transform="translate(1254.768 20)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="10" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="0" y="0">1</tspan></text>
+  </g>
+</svg>

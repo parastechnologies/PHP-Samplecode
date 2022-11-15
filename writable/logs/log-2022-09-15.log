@@ -1,0 +1,71 @@
+ERROR - 2022-09-15 02:36:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '!= 0 THEN p.blurImage ELSE p.image END as image,
+            `p`.`name`, `p`.`hi' at line 1
+CRITICAL - 2022-09-15 02:36:37 --> Call to a member function getRowArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(727): Config\Services::userPlatformDetail(104, 'public', '32')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->addPlatforms()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-09-15 02:36:59 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '!= 0 THEN p.blurImage ELSE p.image END as image,
+            `p`.`name`, `p`.`hi' at line 1
+CRITICAL - 2022-09-15 02:36:59 --> Call to a member function getRowArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(727): Config\Services::userPlatformDetail(105, 'public', '32')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->addPlatforms()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-09-15 02:38:19 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '!= 0 THEN p.blurImage ELSE p.image END as image,
+            `p`.`name`, `p`.`hi' at line 1
+CRITICAL - 2022-09-15 02:38:19 --> Call to a member function getRowArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(727): Config\Services::userPlatformDetail(106, 'public', '32')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->addPlatforms()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-09-15 02:39:18 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '!= 0 THEN p.blurImage ELSE p.image END as image,
+            `p`.`name`, `p`.`hi' at line 1
+CRITICAL - 2022-09-15 02:39:18 --> Call to a member function getRowArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(727): Config\Services::userPlatformDetail(107, 'public', '32')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->addPlatforms()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-09-15 02:43:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '!= 0 THEN p.blurImage ELSE p.image END as image,
+            `p`.`name`, `p`.`hi' at line 1
+CRITICAL - 2022-09-15 02:43:01 --> Call to a member function getRowArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(727): Config\Services::userPlatformDetail(108, 'public', '32')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->addPlatforms()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-09-15 02:45:19 --> Unknown column 'p.rectImage' in 'field list'
+CRITICAL - 2022-09-15 02:45:19 --> Call to a member function getRowArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(727): Config\Services::userPlatformDetail(109, 'public', '32')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->addPlatforms()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-09-15 02:46:25 --> Unknown column 'p.rectImage' in 'field list'
+CRITICAL - 2022-09-15 02:46:25 --> Call to a member function getRowArray() on bool
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(727): Config\Services::userPlatformDetail(110, 'public', '32')
+#1 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->addPlatforms()
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-09-15 05:54:53 --> Cannot add or update a child row: a foreign key constraint fails (`maaraCardDB`.`tbl_connections`, CONSTRAINT `tbl_connections_userID_foreign` FOREIGN KEY (`userID`) REFERENCES `tbl_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ERROR - 2022-09-15 06:01:35 --> Cannot add or update a child row: a foreign key constraint fails (`maaraCardDB`.`tbl_connections`, CONSTRAINT `tbl_connections_userID_foreign` FOREIGN KEY (`userID`) REFERENCES `tbl_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ERROR - 2022-09-15 06:09:42 --> Cannot add or update a child row: a foreign key constraint fails (`maaraCardDB`.`tbl_connections`, CONSTRAINT `tbl_connections_userID_foreign` FOREIGN KEY (`userID`) REFERENCES `tbl_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ERROR - 2022-09-15 06:28:20 --> Cannot add or update a child row: a foreign key constraint fails (`maaraCardDB`.`tbl_connections`, CONSTRAINT `tbl_connections_userID_foreign` FOREIGN KEY (`userID`) REFERENCES `tbl_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ERROR - 2022-09-15 06:31:21 --> Cannot add or update a child row: a foreign key constraint fails (`maaraCardDB`.`tbl_connections`, CONSTRAINT `tbl_connections_userID_foreign` FOREIGN KEY (`userID`) REFERENCES `tbl_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ERROR - 2022-09-15 06:36:01 --> Cannot add or update a child row: a foreign key constraint fails (`maaraCardDB`.`tbl_connections`, CONSTRAINT `tbl_connections_userID_foreign` FOREIGN KEY (`userID`) REFERENCES `tbl_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ERROR - 2022-09-15 06:41:02 --> Cannot add or update a child row: a foreign key constraint fails (`maaraCardDB`.`tbl_connections`, CONSTRAINT `tbl_connections_userID_foreign` FOREIGN KEY (`userID`) REFERENCES `tbl_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ERROR - 2022-09-15 06:41:50 --> Cannot add or update a child row: a foreign key constraint fails (`maaraCardDB`.`tbl_connections`, CONSTRAINT `tbl_connections_userID_foreign` FOREIGN KEY (`userID`) REFERENCES `tbl_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ERROR - 2022-09-15 06:42:57 --> Cannot add or update a child row: a foreign key constraint fails (`maaraCardDB`.`tbl_connections`, CONSTRAINT `tbl_connections_userID_foreign` FOREIGN KEY (`userID`) REFERENCES `tbl_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ERROR - 2022-09-15 06:43:34 --> Cannot add or update a child row: a foreign key constraint fails (`maaraCardDB`.`tbl_connections`, CONSTRAINT `tbl_connections_userID_foreign` FOREIGN KEY (`userID`) REFERENCES `tbl_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)

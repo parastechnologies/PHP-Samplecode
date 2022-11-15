@@ -1,0 +1,8 @@
+CRITICAL - 2022-10-12 06:12:53 --> Class 'SendGrid\Mail\Mail' not found
+#0 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/BaseController.php(514): App\Controllers\BaseController->sendgrid('saurabh.paraste...', 'Forgot Password', 'Here is the cod...')
+#1 /home/zjtoavd5rlc8/maaracard.com/app/Controllers/User.php(333): App\Controllers\BaseController->sendMail('saurabh.paraste...', 'Forgot Password', 'Here is the cod...', 0)
+#2 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\User->forgotPassword()
+#3 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 /home/zjtoavd5rlc8/maaracard.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/zjtoavd5rlc8/maaracard.com/index.php(43): CodeIgniter\CodeIgniter->run()
+#6 {main}

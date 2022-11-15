@@ -1,0 +1,305 @@
+CRITICAL - 2022-03-14 02:52:36 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 34 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(34): Firebase\JWT\JWT::encode(Array, 'kjfdjhgfkdghdgh...')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 02:52:36 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:11:00 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 34 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(34): Firebase\JWT\JWT::encode(Array, 'kjfdjhgfkdghdgh...')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 03:11:00 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:12:40 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 34 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(34): Firebase\JWT\JWT::encode(Array, 'kjfdjhgfkdghdgh...')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 03:12:40 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:13:43 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 34 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(34): Firebase\JWT\JWT::encode(Array, 'kjfdjhgfkdghdgh...')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 03:13:43 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:16:51 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 34 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(34): Firebase\JWT\JWT::encode(Array, 'kjfdjhgfkdghdgh...')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 03:16:51 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:17:03 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 34 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(34): Firebase\JWT\JWT::encode(Array, 'kjfdjhgfkdghdgh...')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 03:17:03 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:20:18 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 34 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(34): Firebase\JWT\JWT::encode(Array, 'kjfdjhgfkdghdgh...')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 03:20:18 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:25:43 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 35 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(35): Firebase\JWT\JWT::encode(Array, 'kjfdjhgfkdghdgh...')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 03:25:43 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:27:06 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 35 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(35): Firebase\JWT\JWT::encode(Array, 'kjfdjhgfkdghdgh...')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 03:27:06 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:32:58 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 35 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(35): Firebase\JWT\JWT::encode(Array, 'kjfdjhgfkdghdgh...')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 03:32:58 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:41:20 --> Class 'App\Controllers\Key' not found
+#0 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 03:41:20 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:47:06 --> Class 'App\Controllers\Key' not found
+#0 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 03:47:06 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 03:47:43 --> Class 'App\Controllers\Key' not found
+#0 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 03:47:43 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 05:15:27 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 29 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(29): Firebase\JWT\JWT::encode(Array, 'example_key')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 05:15:27 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 05:15:59 --> Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/amandeep/public_html/mixologyice/app/Controllers/Home.php on line 29 and at least 3 expected
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(29): Firebase\JWT\JWT::encode(Array, 'example_key')
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 05:15:59 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ArgumentCountError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 05:45:25 --> Wrong number of segments
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/BaseController.php(210): Firebase\JWT\JWT::decode(NULL, Object(Firebase\JWT\Key))
+#1 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(22): App\Controllers\BaseController->decodeTokenByParam(NULL)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-14 05:45:25 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(UnexpectedValueException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 05:46:19 --> Wrong number of segments
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/BaseController.php(210): Firebase\JWT\JWT::decode(NULL, Object(Firebase\JWT\Key))
+#1 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(22): App\Controllers\BaseController->decodeTokenByParam(NULL)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-14 05:46:19 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(UnexpectedValueException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 05:46:21 --> Wrong number of segments
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/BaseController.php(210): Firebase\JWT\JWT::decode(NULL, Object(Firebase\JWT\Key))
+#1 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(22): App\Controllers\BaseController->decodeTokenByParam(NULL)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-14 05:46:21 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(UnexpectedValueException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 05:47:04 --> Wrong number of segments
+#0 /home/amandeep/public_html/mixologyice/app/Controllers/BaseController.php(211): Firebase\JWT\JWT::decode(NULL, Object(Firebase\JWT\Key))
+#1 /home/amandeep/public_html/mixologyice/app/Controllers/Home.php(22): App\Controllers\BaseController->decodeTokenByParam(NULL)
+#2 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Home->test()
+#3 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/amandeep/public_html/mixologyice/index.php(46): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-14 05:47:04 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /home/amandeep/public_html/mixologyice/index.php:1) in /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/amandeep/...', 112, Array)
+#1 /home/amandeep/public_html/mixologyice/vendor/codeigniter4/framework/system/Debug/Exceptions.php(112): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(UnexpectedValueException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
